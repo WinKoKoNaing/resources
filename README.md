@@ -2,6 +2,8 @@
 > Resources
  - [JavaPoint](https://www.javatpoint.com/)
  - [Guru](https://www.guru99.com/)
+ - [Software Development Lifecycle](https://youtu.be/i-QyW8D3ei0) | Youtube
+ - [Web Development In 2020 - A Practical Guide](https://youtu.be/0pThnRneDjw) | Youtube
 ## Android Development
 ###### Kotlin
 > Website
@@ -37,3 +39,8 @@
 ###### MySQL
 > Courses
 - [ ] [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+## Tools
+###### Git & GitHub
+> Courses
+- [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity
+## Software Engineering(SE)
