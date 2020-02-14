@@ -42,5 +42,5 @@
 ###### [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 > Courses
 - [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity
-###### [Discord Download](https://discordapp.com/) | Free Voice and Text Chat for Communication
+###### [Discord Download](https://discordapp.com/) - You can [Join](https://discord.gg/XJ4XH4) | Free Voice and Text Chat for Communication 
 ## Software Engineering(SE)
