@@ -23,8 +23,8 @@
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Google Web](https://developers.google.com/web)
 > Courses
-- [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) ] | Udacity
-- [ ] [ES6 — JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356) | Udacity
+- [x] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) ] | Udacity
+- [x] [ES6 — JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356) | Udacity
 - [ ] [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117) | Udacity
 - [ ] [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) | Udacity
 - [ ] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) | Udacity
@@ -40,6 +40,8 @@
 - [ ] [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 ## Tools
 ###### [Git](https://git-scm.com/) & [GitHub](https://github.com/)
+> Articles
+[A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 > Courses
 - [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity
 ###### [Discord Download](https://discordapp.com/) - You can [Join](https://discord.gg/XJ4XH4) | Free Voice and Text Chat for Communication 
