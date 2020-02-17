@@ -41,7 +41,7 @@
 ## Tools
 ###### [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 > Articles
-[A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+- [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 > Courses
 - [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity
 ###### [Discord Download](https://discordapp.com/) - You can [Join](https://discord.gg/XJ4XH4) | Free Voice and Text Chat for Communication 
