@@ -31,6 +31,15 @@
 - [ ] [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) | Udacity
 - [ ] [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) | Udacity
 - [ ] [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity
+###### Python
+> Website
+- [Python Doc](https://docs.python.org/3/tutorial/)
+- [Jetbrain Python Survey](https://www.jetbrains.com/lp/python-developers-survey-2019/) - Recommended [Flask](https://github.com/pallets/flask) Or [Django](https://github.com/django/django) Framework 
+- [JavaPoint Flask](https://www.javatpoint.com/flask-tutorial)
+- [MDN Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+> Courses
+- [ ] [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity
+- [ ] [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | Udacity
 ## DBMS
 ###### [MongoDb](https://www.mongodb.com/)
 > Courses
