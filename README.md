@@ -1,4 +1,4 @@
-# WMD Developer Group
+# Android & Web Dev
 > Resources
  - [JavaPoint](https://www.javatpoint.com/)
  - [Guru](https://www.guru99.com/)
